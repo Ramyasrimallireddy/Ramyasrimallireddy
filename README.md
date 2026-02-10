@@ -44,7 +44,7 @@ Key Features:
 ----Technologies Used:----
 Java, Collections, OOPs
 <hr>
-✅ Library Management System (Java)
+✅ Library Management System (Python)
 
 Description:
 Developed a Java-based Library Management System to manage book records, users, and borrowing operations efficiently.
