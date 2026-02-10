@@ -56,7 +56,7 @@ Key Features:
 * Track due dates and availability<br>
 * User and admin role management<br>
 ----Technologies Used:----<br>
-Java, JDBC, MySQL, OOPs, Exception Handling
+Python, Django, HTML5, CSS3.
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyasrimallireddy&label=Profile%20views&color=0e75b6&style=flat" alt="ramyasrimallireddy" /> </p>
