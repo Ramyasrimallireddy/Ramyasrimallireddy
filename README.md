@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ****Potato Disease Detection** – ML-based classification model for detecting leaf diseases**
 
-- 🌱 I’m currently learning **Power Bi,React js**
+- 🌱 I’m currently learning **DSA,React js**
 
 - 👯 I’m looking to collaborate on **Developing full-stack web applications using **Django** and **Python****
 
